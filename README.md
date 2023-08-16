@@ -1,7 +1,7 @@
 # EAD Core
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/ARKEcosystem/core/master/banner.png" />
+    <img src="https://github.com/eadcoin/core/blob/main/banner.png" />
 </p>
 
 ## Documentation
