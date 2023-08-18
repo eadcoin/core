@@ -1,18 +1,18 @@
 {
-    "name": "mainnet",
-    "messagePrefix": "ARK message:\n",
-    "bip32": {
-        "public": 46090600,
-        "private": 46089520
-    },
-    "pubKeyHash": 23,
-    "nethash": "6e84d08bd299ed97c212c886c98a57e36545c8f5d645ca7eeae63a8bd62d8988",
-    "wif": 170,
-    "slip44": 111,
-    "aip20": 0,
-    "client": {
-        "token": "ARK",
-        "symbol": "Ѧ",
-        "explorer": "https://explorer.ark.io"
-    }
+  "name": "mainnet",
+  "messagePrefix": "EADCOIN message:\n",
+  "bip32": {
+    "public": 46090600,
+    "private": 46089520
+  },
+  "pubKeyHash": 33,
+  "nethash": "34284e3e9eb6bd669c08d8580818a976dc682d4ef0a12fcd9e49dd033ab304e1",
+  "wif": 229,
+  "slip44": 111,
+  "aip20": 0,
+  "client": {
+    "token": "EADCOIN",
+    "symbol": "EAD",
+    "explorer": "http://146.190.135.75:4200"
+  }
 }

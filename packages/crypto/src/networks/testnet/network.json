@@ -1,18 +1,18 @@
 {
-    "name": "testnet",
-    "messagePrefix": "TEST message:\n",
-    "bip32": {
-        "public": 70617039,
-        "private": 70615956
-    },
-    "pubKeyHash": 23,
-    "nethash": "d9acd04bde4234a81addb8482333b4ac906bed7be5a9970ce8ada428bd083192",
-    "wif": 186,
-    "slip44": 1,
-    "aip20": 0,
-    "client": {
-        "token": "TARK",
-        "symbol": "TѦ",
-        "explorer": "http://texplorer.ark.io"
-    }
+  "name": "testnet",
+  "messagePrefix": "EADCOIN message:\n",
+  "bip32": {
+    "public": 70617039,
+    "private": 70615956
+  },
+  "pubKeyHash": 65,
+  "nethash": "5d50ea457d4aea4baa37212e3599466d0ba1bf934f493d7ca47934f0d0cada26",
+  "wif": 242,
+  "slip44": 1,
+  "aip20": 0,
+  "client": {
+    "token": "EADCOIN",
+    "symbol": "EAD",
+    "explorer": "http://146.190.135.75:4200"
+  }
 }
